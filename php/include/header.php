@@ -67,7 +67,7 @@
 								<li><a href="#">One more separated link</a></li>
 							</ul>
 						</li>
-						<li class="active"><a href="#">Bruger <span class="sr-only">(current)</span></a></li>
+						<li class="active"><a href="#"><i class="fa fa-user" aria-hidden="true"></i>&nbsp; Bruger <span class="sr-only">(current)</span></a></li>
 					</ul>
 				</div>
 			</div>
